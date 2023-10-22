@@ -1,7 +1,7 @@
 
 # Redis-Backed Holy Grail Layout Manager
 
-This project is part of the assignment for the MIT xPRO Full Stack Bootcamp. It's a full-stack application implementing the Holy Grail layout. The application leverages Express.js for the backend, Redis as a database using Docker, and presents a frontend showcasing the Holy Grail application.
+This project is part of the assignment for the MIT xPRO Full Stack Bootcamp. It's a full-stack application implementing the Holy Grail layout. The application leverages Express.js for the backend, Redis as a database using Docker, and presents a frontend showcasing the Holy Grail Boiler Plate Layout for a web application.
 
 ## Table of Contents
 - [Installation](#installation)
